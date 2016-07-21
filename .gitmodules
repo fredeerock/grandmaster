@@ -1,3 +1,3 @@
 [submodule "gh-pages"]
 path = gh-pages
-url = git@github.com:fredeerock/grandmaster
+url = git@github.com:fredeerock/grandmaster/tree/gh-pages
